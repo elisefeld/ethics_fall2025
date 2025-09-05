@@ -13,7 +13,7 @@ title                    : "Computing Ethics"
 title_separator          : "-"
 name                     : &name 
 description              : &description 
-url                      : https://chefs-kiss.github.io/ethics_fall2025 #  Use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://elisefeld.github.io/ethics_fall2025/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/chefs-kiss/ethics_fall2025" 
 
@@ -23,12 +23,12 @@ repository               : "https://github.com/chefs-kiss/ethics_fall2025"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "First Last" #update
-  pronouns         : # example: "she/her"  
+  name             : "Elise Hachfeld"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left hand sidebar"
   employer         : "St. Olaf College"
   uri              : # URL
-  email            : #"[username]@stolaf.edu" #update
+  email            : "hachfe3@stolaf.edu"
 
   # links
   academia         : # URL
@@ -46,20 +46,20 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "username"
-  kaggle           : # Username  
+  github           : "esfeld"
+  kaggle           : "elisefeld"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
   artstation       : # Username
   bluesky          : # username
   facebook         : # Username
-  flickr           : # Username
+  flickr           : "eshachfeld"
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "elise-hachfeld-b4a068191"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
