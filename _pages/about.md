@@ -7,21 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-This page is meant for you to showcase your case study, podcasts, and blog posts reflecting on our readings. You will need to update the content in each section and submit your site to Moodle (see calendar). Once all sections are updated, revise this paragraph so it summarizes the purpose of your site for new visitors. This can include how to navigate it, what each section contains, and what someone should understand about your work just by reading this introduction.
-
+Welcome! On this site I'll be sharing academic projects about ethics in computer science including blog posts, podcasts, and a case study. 
 
 About Me
 ---
-My name is Elise Hachfeld. I’m a [Computer Science] student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my [B.S] in [majors]. You can also talk about internships you've had [if applicable]
+My name is Elise Hachfeld. I’m a student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my B.S in Bioinformatics with concentrations in Neuroscience and Statistics and Data Science.
 
 Research 
 ---
-What topics are you currently interested in researching, or have already done in your major studies.
-What topics are you interested in learning about regarding ethics.
+I have been involved in several projects that integrate biology, computer science and data science on the St. Olaf campus. These include developing a image processing workflow for detecting lipid droplets in Tetrahymena thermophila cells and streamlining a simulation model on altruism in animal populations. Currently, I am working on methods of analyzing whole genome sequencing data. My research interests also include data privacy in human genomics and the impact of misinformation on social media.
 
 Personal Life
 ---
-Update to give a little background on you and your interests.
+Outside of academics, I love growing native Minnesota plants, researching Eastern European genealogy, watching movies, and spending time with my two cats.
 
 
 For more info on editing this page: configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
