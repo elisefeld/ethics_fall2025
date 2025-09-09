@@ -28,7 +28,7 @@ author:
   bio              : "Short biography for the left hand sidebar"
   employer         : "St. Olaf College"
   uri              : # URL
-  email            : "[username]@stolaf.edu" #update
+  email            : "hachfe3@stolaf.edu" #update
 
   # links
   academia         : # URL
@@ -46,20 +46,20 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "username"
-  kaggle           : # Username  
+  github           : "elisefeld"
+  kaggle           : elisefeld  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
   artstation       : # Username
   bluesky          : # username
   facebook         : # Username
-  flickr           : # Username
+  flickr           : "eshachfeld"
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "elise-hachfeld-b4a068191"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
