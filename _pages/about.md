@@ -15,11 +15,14 @@ My name is Elise Hachfeld. I’m a student in the [Mathematics, Statistics, and 
 
 Research 
 ---
-I have been involved in several projects that integrate biology, computer science and data science on the St. Olaf campus. These include developing a image processing workflow for detecting lipid droplets in Tetrahymena thermophila cells and streamlining a simulation model on altruism in animal populations. Currently, I am working on methods of analyzing whole genome sequencing data. My research interests also include data privacy in human genomics and the impact of misinformation on social media.
+I have been involved in several projects that integrate biology, computer science and data science on the St. Olaf campus. 
+These include:
+* Developing a image processing workflow for detecting lipid droplets in Tetrahymena thermophila cells
+* Fine-tuning a convolutional neural network to classify images of lichen from iNaturalist
+* Streamlining a simulation model on altruism in animal populations
+
+Currently, I am working on methods of analyzing whole genome sequencing data. My research interests also include data privacy in human genomics and the impact of misinformation on social media.
 
 Personal Life
 ---
 Outside of academics, I love growing native Minnesota plants, researching Eastern European genealogy, watching movies, and spending time with my two cats.
-
-
-For more info on editing this page: configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
