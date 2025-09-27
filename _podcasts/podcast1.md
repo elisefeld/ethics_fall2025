@@ -1,5 +1,5 @@
 ---
-title: "Podcast 1"
+title: "Podcast 1: Film Ethics"
 collection: podcasts
 permalink: /podcasts/podcast1
 excerpt: "Podcast #1 of the Moral Machine: Analyzing the ethical frameworks of film and TV characters."
