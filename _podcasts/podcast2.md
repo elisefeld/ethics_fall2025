@@ -1,4 +1,4 @@
-teast---
+---
 title: "Podcast 2: Bot-ched Statistics"
 collection: podcasts
 permalink: /podcasts/podcast2
