@@ -4,7 +4,7 @@ collection: podcasts
 permalink: /podcasts/podcast2
 excerpt: "Podcast #2 of the Moral Machine: ."
 date: 2025-10-12
-audio: ethics_fall2025/files/podcast2-master.mp3
+audio: ethics_fall2025/files/pod2-mastered-sort-of.mp3
 ---
 
 This podcast features an analysis of the ability of LLMs to provide reputable sources. 
