@@ -2,7 +2,7 @@
 title: "Podcast 2: Bot-ched Statistics"
 collection: podcasts
 permalink: /podcasts/podcast2
-excerpt: "Podcast #2 of the Moral Machine: ."
+excerpt: "Podcast #2 of the Moral Machine: Bot-ched Statistics."
 date: 2025-10-12
 audio: ethics_fall2025/files/pod2-mastered-sort-of.mp3
 ---
