@@ -15,4 +15,4 @@ audio: ethics_fall2025/files/pod3.mp3
 4. [The AI lab waging a guerrilla war over exploitative AI](https://www.technologyreview.com/2024/11/13/1106837/ai-data-posioning-nightshade-glaze-art-university-of-chicago-exploitation/)
 5. [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
 
-![Figure 1](ethics_fall2025/images/pravda.png)
+![Figure 1](/ethics_fall2025/images/pravda.png)
