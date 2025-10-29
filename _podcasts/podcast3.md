@@ -5,6 +5,7 @@ permalink: /podcasts/podcast2
 excerpt: "Podcast #3 of the Moral Machine: Data Poisoning"
 date: 2025-10-28
 audio: ethics_fall2025/files/pod3.mp3
+video: ethics_fall2025/files/pod3.mp4
 ---
 
 
