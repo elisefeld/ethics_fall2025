@@ -1,4 +1,5 @@
 ---
+permalink: /stakeholder1/
 title: "Stakeholder1"
 layout: default
 ---
