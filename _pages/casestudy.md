@@ -17,4 +17,4 @@ Your case study will take the form of a website (built with Jekyll and GitHub Pa
 
 
 
-[Stakeholder 1](/ethics_fall2025/_casestudy/stakeholder1/)
+[Stakeholder 1](/ethics_fall2025/stakeholder1/)
