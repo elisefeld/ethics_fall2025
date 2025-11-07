@@ -4,17 +4,9 @@ title: "Case Study"
 author_profile: true
 ---
 
-Drop spot for your case study work
+Facebook's Algorithm is Feeding you AI Slop - A Case Study
 
 ## Overview
+Nearly everything you see on the internet is tailored specifically to you--from Google search results to the TikTok For You Page. Social media companies use a combination of content reccomendation algorithms and your personal data to curate your feed. It's perfectly legal, but could it be eroding our ability to recognize what is real, or even degrading the democratic process itself?
 
-For your semester project, you and a partner will create an original case study
-modeled after those we read in class. Your case study must present an ethical issue in computing and can focus on any topic of your choosing. Some possible ideas include algorithmic bias and discrimination, surveillance technologies, facial recognition, data privacy, misinformation and deepfakes, generative AI and authorship, the climate impact of computing, digital labor and gig work, cybersecurity and hacking, accessibility and inclusion in technology, militarization of technology, AI companionship and social robotics, and cryptocurrency, though you are encouraged to select a topic not found on this list if it aligns with your interests and research.
-
-## Requirements
-
-Your case study will take the form of a website (built with Jekyll and GitHub Pages) that presents an ethical issue in computing. You will identify and research an ethical issue in computing or AI, write accessible content tailored for three different audiences, include an interactive activity that helps readers learn and reflect on the issue, and develop a set of discussion questions to spark engagement and deeper thinking. Your project must be engaging, well-researched, cite sources appropriately, and be designed for multiple audiences.
-
-
-
-[Stakeholder 1](/ethics_fall2025/stakeholder1/)
+[View my Case Study Here](https://elisehachfeld.com/facebooks-algorithm-is-feeding-you-ai-slop-a-case-study/))
