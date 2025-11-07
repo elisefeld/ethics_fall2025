@@ -4,7 +4,7 @@ title: "Case Study"
 author_profile: true
 ---
 
-Facebook's Algorithm is Feeding you AI Slop - A Case Study
+Social Media Algorithms are Feeding You AI Slop
 
 ## Overview
 Nearly everything you see on the internet is tailored specifically to you--from Google search results to the TikTok For You Page. Social media companies use a combination of content reccomendation algorithms and your personal data to curate your feed. It's perfectly legal, but could it be eroding our ability to recognize what is real, or even degrading the democratic process itself?
