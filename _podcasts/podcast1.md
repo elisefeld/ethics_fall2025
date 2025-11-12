@@ -7,7 +7,7 @@ date: 2025-09-26
 audio: ethics_fall2025/files/pod1.mp3
 video: https://drive.google.com/file/d/12igMryVBiaRKErFblhOjprgPzPDCpEDH/view?usp=sharing
 ---
-(View the updated version here)[https://elisehachfeld.com/the-morality-machine-episode-1-ethics-on-film/]
+[VIEW THE UPDATED VERSION HERE](https://elisehachfeld.com/the-morality-machine-episode-1-ethics-on-film/)
 
 ### Characters
 **Russell from Up:**  
