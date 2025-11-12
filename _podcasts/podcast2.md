@@ -7,6 +7,7 @@ date: 2025-10-12
 audio: ethics_fall2025/files/pod2.mp3
 video: ethics_fall2025/files/pod2.mp4
 ---
+[VIEW THE UPDATED VERSION HERE](https://elisehachfeld.com/the-morality-machine-episode-2/)
 
 This podcast features an analysis of the ability of LLMs to provide reputable sources. 
 
