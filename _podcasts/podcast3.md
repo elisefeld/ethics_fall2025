@@ -8,6 +8,7 @@ audio: ethics_fall2025/files/pod3.mp3
 video: ethics_fall2025/files/pod3.mp4
 ---
 
+[VIEW THE UPDATED VERSION HERE](https://elisehachfeld.com/the-morality-machine-episode-3-the-ethics-of-llm-poisoning/)
 
 **Sources:**
 1. [Russia seeds chatbots with lies. Any bad actor could game AI the same way.](https://www.washingtonpost.com/technology/2025/04/17/llm-poisoning-grooming-chatbots-russia/?)
