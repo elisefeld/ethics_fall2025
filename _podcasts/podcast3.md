@@ -1,7 +1,7 @@
 ---
 title: "Podcast 3: Data Poisoning"
 collection: podcasts
-permalink: /podcasts/podcast2
+permalink: /podcasts/podcast3
 excerpt: "Podcast #3 of the Moral Machine: Data Poisoning"
 date: 2025-10-28
 audio: ethics_fall2025/files/pod3.mp3
